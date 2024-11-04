@@ -10,3 +10,10 @@
 ## Community
 [Discord Community](https://wandb.me/discord)
 
+## Weave Docs
+[Docs](https://wandb.me/weave)
+
+
+
+
+
